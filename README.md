@@ -9,7 +9,7 @@ Rating patterns and content duration
 Geographic content availability
 Popular directors and cast members
 
-#Technologies Used-
+#Tools Used-
 Python: Data processing and visualization
 SQL: Data querying and analysis
 pandas: Data manipulation
